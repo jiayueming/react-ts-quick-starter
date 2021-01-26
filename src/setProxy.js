@@ -9,7 +9,7 @@ const proxySettings = {
     target: 'http://198.168.111.111:3002',
     changeOrigin: true,
     pathRewrite: {
-      '^/api-2': 'jiayuming不要mergeq222dev分支哦',
+      '^/api-2': 'master不要merge哈',
     },
   },
   // .....
