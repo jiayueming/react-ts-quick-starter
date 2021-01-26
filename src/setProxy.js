@@ -9,7 +9,7 @@ const proxySettings = {
     target: 'http://198.168.111.111:3002',
     changeOrigin: true,
     pathRewrite: {
-      '^/api-2': '',
+      '^/api-2': 'wwwww',
     },
   },
   // .....
