@@ -9,7 +9,7 @@ const proxySettings = {
     target: 'http://198.168.111.111:3002',
     changeOrigin: true,
     pathRewrite: {
-      '^/api-2': 'dev分支不要合并',
+      '^/api-2': 'mastereeee分支不要合并',
     },
   },
   // .....
